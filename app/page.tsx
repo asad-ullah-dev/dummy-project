@@ -17,7 +17,7 @@ export default function Home() {
     <main>
       <div className="2xl:px-0 px-5">
         <div className="pt-8">
-        <h1 className="sm:text-5xl text-4xl font-bold text-center text-black">Dummy Api</h1>
+        <h1 className="sm:text-5xl text-4xl font-bold text-center text-black">Dummy Apis</h1>
       </div>
 
       <div className="pt-8">
