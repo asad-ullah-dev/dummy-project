@@ -6,7 +6,7 @@ import { FaLocationDot } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa";
 
 type CardItems = {
-    id: string;
+    id: number;
     image: boolean;
     title: string;
     location: string;

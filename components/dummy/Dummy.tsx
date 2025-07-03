@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 
 type TestItem = {
-  id: string;
+  id: number;
   title: string;
   description: string;
   date: string;
